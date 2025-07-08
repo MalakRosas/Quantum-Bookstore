@@ -1,0 +1,36 @@
+Available books:
+
+Title: A Brief History of Time
+Year: 2016
+Price: 500.0
+Title: On the Origin of Species
+Year: 2017
+Price: 250.0
+Title: The Selfish Gene
+Year: 2020
+Price: 300.0
+Title: Silent Spring
+Year: 1962
+Price: 350.0
+Title: Why We Sleep
+Year: 2000
+Price: 550.0
+
+Removing books older than 10 years
+Removed: Title: Silent Spring
+Year: 1962
+Price: 350.0
+Removed: Title: Why We Sleep
+Year: 2000
+Price: 550.0
+
+Buying 2 copies of A Brief History of Time
+Shipping to Alexandria, behind AAST
+Paid: 1000.0 EGP
+
+Buying On the Origin of Species eBook
+Sending eBook to malakrosass@gmail.com
+Paid: 250.0 EGP
+
+Trying to buy The Selfish Gene
+Error: Quantum bookstore: This book is not for sale.
